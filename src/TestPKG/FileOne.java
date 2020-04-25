@@ -4,8 +4,8 @@ public class FileOne
 {
 	public static void main(String[] args)
 	{
-		//Updated in devOne branch
-		int demoVal = 2;
+		//Updated in devTwo branch
+		int demoVal = 3;
 		System.out.println("Value is : "+demoVal);
 	}
 }
